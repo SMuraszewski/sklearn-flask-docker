@@ -4,7 +4,7 @@
 FROM python:3.6-slim
 
 # Identify maintainer
-LABEL maintainer = "csebomur98@gmail.com"
+LABEL maintainer = "sebomur98@gmail.com"
 
 # Set the default working directory
 WORKDIR /app/
