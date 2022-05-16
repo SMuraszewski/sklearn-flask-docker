@@ -1,9 +1,6 @@
 # sklearn-flask-docker
 
 Solution of homework for RTA classes on the Warsaw School of Economics.
-An example of deploying a sklearn model using Flask using a Docker container.
-
-This tutorial requires basic Docker knowledge.
 
 ## Steps:
 
