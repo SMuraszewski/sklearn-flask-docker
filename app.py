@@ -10,6 +10,7 @@ from flask import jsonify
 from sklearn import linear_model
 from sklearn.externals import joblib
 
+# Lines below are taken from the original app.py from the repository
 # Create a flask
 app = Flask(__name__)
 
